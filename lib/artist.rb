@@ -1,0 +1,3 @@
+
+beyonce = Artist.new("Beyonce")
+ 
