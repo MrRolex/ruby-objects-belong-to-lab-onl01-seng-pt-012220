@@ -1,3 +1,6 @@
-
-beyonce = Artist.new("Beyonce")
+class Artist
+  attr_accessor :name
+  end
+ 
+ artist = Artist.new
  
